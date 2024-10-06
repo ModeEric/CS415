@@ -14,7 +14,13 @@
 				"C:/Users/theor/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/PlayerCharacter/ScoreWidget.uasset",
 				"C:/Users/theor/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
 				"C:/Users/theor/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
-				"C:/Users/theor/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/PlayerCharacter/EAIState.uasset"
+				"C:/Users/theor/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/PlayerCharacter/EAIState.uasset",
+				"C:/Users/theor/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Mortar.uasset",
+				"C:/Users/theor/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Projectile.uasset",
+				"C:/Users/theor/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/PlayerCharacter/StableEnemy.uasset",
+				"C:/Users/theor/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Assets/Environment/Islands/SM_FloatingIsland_L.uasset",
+				"C:/Users/theor/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/PlayerCharacter/WBP_Restart.uasset",
+				"C:/Users/theor/Documents/Unreal Projects/UnrealLearningKit2/Content/LearningKit_Games/Blueprints/PlayerCharacter/WBP_FINISH.uasset"
 			]
 		}
 	]
